@@ -16,7 +16,7 @@ RUN  apt-get update \
     && apt-get install -yyq gconf-service lsb-release wget xdg-utils \
     # and fonts
     && apt-get install -yyq fonts-liberation \
-    # We install Chrome to get all the OS level dependencies, but Chrome itself
+    # We install Chrome to get all the OS level dependencies, but Chrome Itself
     # is not actually used as it's packaged in the node puppeteer library.
     # Alternatively, we could could include the entire dep list ourselves
     # (https://github.com/puppeteer/puppeteer/blob/master/docs/troubleshooting.md#chrome-headless-doesnt-launch-on-unix)
