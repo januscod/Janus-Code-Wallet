@@ -6,7 +6,7 @@ filtered by the "bug" label and verify the issue you're about to submit isn't a 
 
 2. Make sure you're including the name of the affected component if applicable, as an example:
 
-account-transaction-list or scan-address
+Account-transaction-list or scan-address
 --->
 
 ### Summary
