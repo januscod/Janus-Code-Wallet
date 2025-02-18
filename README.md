@@ -1,7 +1,7 @@
 # AirGap Wallet
 
 <p align="left">
-    <img src="./banner.png" />
+    <img src="./banner2.png" />
 </p>
 
 > Self custody made simple and secure. Protect your crypto and store your private keys offline.
