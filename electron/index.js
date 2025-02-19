@@ -1,7 +1,6 @@
 const { app, BrowserWindow, Menu, ipcMain, globalShortcut } = require('electron')
 const isDevMode = require('electron-is-dev')
 const { CapacitorSplashScreen, configCapacitor } = require('@capacitor/electron')
-
 const childProcess = require('child_process')
 const path = require('path')
 
