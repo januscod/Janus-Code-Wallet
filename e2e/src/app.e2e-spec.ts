@@ -10,7 +10,6 @@ import { PortfolioPage } from './pages/portfolio.po'
 import { SettingsPage } from './pages/settings.po'
 import { TransactionPreparePage } from './pages/transaction-prepare.po'
 import { TransactionQrPage } from './pages/transaction-qr.po'
-
 const time: Date = new Date()
 
 describe('AirGap Wallet', () => {
