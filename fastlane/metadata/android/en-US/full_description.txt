@@ -1,5 +1,4 @@
 AirGap is a crypto wallet, that allows you to store your crypto funds securely on your mobile phone.
-
 AirGap supports the following currencies:
 - Bitcoin
 - Ethereum
