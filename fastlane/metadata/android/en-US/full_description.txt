@@ -1,5 +1,5 @@
-AirGap is a crypto wallet, that allows you to store your crypto funds securely on your mobile phone.
-AirGap supports the following currencies:
+Janus Code is a crypto wallet, that allows you to store your crypto funds securely on your mobile phone.
+Janus Code supports the following currencies:
 - Bitcoin
 - Ethereum
 - Tezos
@@ -10,7 +10,7 @@ AirGap supports the following currencies:
 - Æternity
 - Groestlcoin
 
-AirGap has a two app approach, that gives you added security while handling your crypto funds. You get the highest security if you install AirGap Vault on a separate smartphone, and never connect that phone with any network again.
+Janus Code has a two app approach, that gives you added security while handling your crypto funds. You get the highest security if you install AirGap Vault on a separate smartphone, and never connect that phone with any network again.
 
 HIGHEST SECURITY - two apps, two devices
 AirGap Wallet, this is the AirGap Wallet application, that deals with only public information and is responsible for broadcasting transactions to the blockchain.
