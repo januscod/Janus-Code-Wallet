@@ -7,7 +7,6 @@ var HtmlReporter = require('protractor-beautiful-reporter')
 function getBaseCapability() {
   return {
     browserName: 'chrome',
-
     chromeOptions: {
       args: []
     }
