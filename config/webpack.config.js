@@ -4,7 +4,6 @@ const webpack = require('webpack')
 const webpackMerge = require('webpack-merge')
 
 dotenv.config()
-
 module.exports = {
   dev: webpackMerge(useDefaultConfig.dev, {
     plugins: [
