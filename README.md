@@ -68,7 +68,7 @@ $ npm test
 
 ## Disclosing Security Vulnerabilities
 
-If you discover a security vulnerability within this application, please send an e-mail to hi@airgap.it. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within this application, please send an e-mail to help@janusco.de. All security vulnerabilities will be promptly addressed.
 
 ## Related Projects
 
