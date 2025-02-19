@@ -1,1 +1,1 @@
-AirGap Wallet is a secure cryptocurrency wallet for Bitcoin, Ethereum and others
+Janus Code is a secure cryptocurrency wallet for Bitcoin, Ethereum and others
