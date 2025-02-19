@@ -1,1 +1,1 @@
-AirGap Wallet
+Janus Code
