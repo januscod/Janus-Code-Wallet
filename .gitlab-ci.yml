@@ -5,7 +5,6 @@ variables:
   GOOGLE_TAG_ANDROID_CURRENT: eu.gcr.io/papers-kubernetes/$CI_PROJECT_NAMESPACE/$CI_PROJECT_NAME:android-$CI_COMMIT_SHA
   GOOGLE_TAG_ELECTRON_LINUX_CURRENT: eu.gcr.io/papers-kubernetes/$CI_PROJECT_NAMESPACE/$CI_PROJECT_NAME:electron-linux-$CI_COMMIT_SHA
   GOOGLE_TAG_ELECTRON_WINDOWS_CURRENT: eu.gcr.io/papers-kubernetes/$CI_PROJECT_NAMESPACE/$CI_PROJECT_NAME:electron-windows-$CI_COMMIT_SHA
-
 stages:
   - build
   - test
