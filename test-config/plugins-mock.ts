@@ -4,7 +4,6 @@ export class AppMock {
   public addListener = newSpy('addListener', {})
   public openUrl = newSpy('openUrl', Promise.resolve())
 }
-
 export class AppInfoPluginMock {
   public get: jasmine.Spy = newSpy(
     'get',
