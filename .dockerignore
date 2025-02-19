@@ -1,8 +1,7 @@
 *.tmp
 *.tmp.*
 .vscode/
-npm-debug.log*
-
+npm-debug.log
 .idea/
 .sourcemaps/
 .sass-cache/
