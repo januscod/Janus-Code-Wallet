@@ -15,7 +15,7 @@ AirGap Wallet has an overview of all accounts with their respective balances and
 AirGap Wallet is a hybrid application (using the same codebase for Android and iOS). Created using AirGap's protocol agnostic `airgap-coin-lib` library to interact with different protocols and our own secure storage implementation.
 
 <p align="left">
-    <img src="./devices2.png" />
+    <img src="./devices.png" />
 </p>
 
 ## Download
