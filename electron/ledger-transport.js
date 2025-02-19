@@ -1,6 +1,5 @@
 const TransportNodeHid = require('@ledgerhq/hw-transport-node-hid-singleton').default
 const TransportNodeBle = require('@ledgerhq/hw-transport-node-ble').default
-
 const transports = new Map()
 
 process.on('SIGINT', () => {
