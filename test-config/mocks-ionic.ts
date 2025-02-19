@@ -3,7 +3,6 @@
 import { newSpy } from './unit-test-helper'
 
 export type Spied<T> = { [Method in keyof T]: jasmine.Spy }
-
 export class RouterMock {
   public navigateByUrl: jasmine.Spy = jasmine.createSpy('navigateByUrl').and.returnValue(Promise.resolve())
   public navigate: jasmine.Spy = jasmine.createSpy('navigate').and.returnValue(Promise.resolve())
