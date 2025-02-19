@@ -5,7 +5,6 @@ const path = require('path')
 
 const rootdir = ''
 const pluginConfig = path.join(rootdir, 'node_modules/cordova.plugins.diagnostic/plugin.xml')
-
 const configFiles = [pluginConfig]
 const usedModules = ['CAMERA']
 const diagnosticModuleStartRegex = getModuleFeatureStartRegex('.+')
