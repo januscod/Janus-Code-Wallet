@@ -10,7 +10,6 @@ import { TranslateFakeLoader, TranslateLoader, TranslateModule } from '@ngx-tran
 import { MomentModule } from 'ngx-moment'
 import { PUSH_NOTIFICATIONS_PLUGIN } from 'src/app/capacitor-plugins/injection-tokens'
 import { appConfig } from 'src/app/config/app-config'
-
 import { ComponentsModule } from '../src/app/components/components.module'
 import { PipesModule } from '../src/app/pipes/pipes.module'
 import { DrawChartService } from '../src/app/services/draw-chart/draw-chart.service'
