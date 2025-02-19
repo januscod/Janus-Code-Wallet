@@ -4,7 +4,6 @@ import { AirGapWalletPriceService } from '@airgap/coinlib-core/wallet/AirGapMark
 import BigNumber from 'bignumber.js'
 
 // tslint:disable:max-classes-per-file
-
 export class PriceServiceMock implements AirGapWalletPriceService {
   public async getCurrentMarketPrice(_protocol: ICoinProtocol, _baseSymbol: string): Promise<BigNumber> {
     throw new Error('Method not implemented.')
