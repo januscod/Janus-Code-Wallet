@@ -14,6 +14,7 @@ export interface SaplingPlugin {
     merklePath: string
   }): Promise<{ spendDescription: string }>
   preparePartialOutputDescription(params: {
+    
     context: string
     address: string
     rcm: string
