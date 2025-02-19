@@ -42,6 +42,7 @@
                 "input": "src/assets/custom-ion-icons",
                 "output": "./svg"
               }
+              
             ],
             "styles": [
               {
