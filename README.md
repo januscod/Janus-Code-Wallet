@@ -1,4 +1,4 @@
-# AirGap Wallet
+# Janus Code
 
 <p align="left">
     <img src="./banner2.png" />
@@ -6,13 +6,11 @@
 
 > Self custody made simple and secure. Protect your crypto and store your private keys offline.
 
-[AirGap](https://airgap.it) is a crypto wallet system that lets you secure cypto assets with one secret on an offline device. The [AirGap Vault](https://github.com/airgap-it/airgap-vault) application is installed on a dedicated device that has no connection to any network, thus it is air gapped. The AirGap Wallet is installed on your everyday smartphone.
+[Janus Code](https://janusco.de) is a crypto wallet system that lets you secure cypto assets with one secret on an offline device. The [Janus Code](https://github.com/januscod/januscode) application is installed on a dedicated device that has no connection to any network, thus it is safe. The Janus Code Wallet is installed on your everyday smartphone.
 
 ## Description
 
-AirGap Wallet has an overview of all accounts with their respective balances and transaction histories. AirGap Wallet never touches your secret data stored in the AirGap Vault. It is responsible for creating and broadcasting transactions. The prepared transaction is sent to the secure Vault over QR codes, where it is securely signed and sent back.
-
-AirGap Wallet is a hybrid application (using the same codebase for Android and iOS). Created using AirGap's protocol agnostic `airgap-coin-lib` library to interact with different protocols and our own secure storage implementation.
+Janus Code has an overview of all accounts with their respective balances and transaction histories. Janus Code never touches your secret data stored in the Janus Code. It is responsible for creating and broadcasting transactions. The prepared transaction is sent to the secure Vault over QR codes, where it is securely signed and sent back.
 
 <p align="left">
     <img src="./devices.png" />
@@ -20,12 +18,12 @@ AirGap Wallet is a hybrid application (using the same codebase for Android and i
 
 ## Download
 
-- [Google Play](https://play.google.com/store/apps/details?id=it.airgap.wallet)
-- [App Store](https://itunes.apple.com/us/app/airgap-wallet/id1420996542?l=de&ls=1&mt=8)
+- [Google Play](https://play.google.com/store/apps/details?id=it.janus.code) Coming 4th of March
+- App Store Coming Soon...
 
 ## Features
 
-- Portfolio overview of accounts synced from AirGap Vault
+- Portfolio overview of accounts synced from Janus Code
 - Communication with the Vault application over QR codes if installed on a second device or app switching if installed on the same device
 - Create transactions for all supported currencies like Aeternity, Bitcoin, Ethereum, Tezos, Cosmos, Kusama, Polkadot, Groestlcoin etc.
 - Broadcast signed transactions
@@ -72,18 +70,7 @@ $ npm test
 
 If you discover a security vulnerability within this application, please send an e-mail to hi@airgap.it. All security vulnerabilities will be promptly addressed.
 
-## Contributing
-
-Before integrating a new feature, please quickly reach out to us in an issue so we can discuss and coordinate the change.
-
-- If you find any bugs, submit an [issue](../../issues) or open [pull-request](../../pulls).
-- If you want to integrate a new blockchain, please read the contributing guidelines in the [airgap-coin-lib](https://github.com/airgap-it/airgap-coin-lib) project.
-- Engage with other users and developers on the [AirGap Telegram](https://t.me/AirGap).
-
 ## Related Projects
 
-- [AirGap Wallet](https://github.com/airgap-it/airgap-wallet)
-- [airgap-coin-lib](https://github.com/airgap-it/airgap-coin-lib)
-
-- [AirGap Linux Distribution](https://github.com/airgap-it/airgap-distro)
-- [apk-signer](https://github.com/airgap-it/airgap-raspberry-apk-signer)
+- [Janus Code](https://github.com/januscod/januscode)
+- [Janus Code Linux Distribution](https://github.com/januscod/Janus-Code-Distro)
