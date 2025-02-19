@@ -13,6 +13,7 @@ export class StorageMock {
         minuteMarketSample: [],
         dailyMarketSample: [],
         hourlyMarketSample: []
+        
       }
     ]
   }
